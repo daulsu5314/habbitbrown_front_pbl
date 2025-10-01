@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 ///  공통 리소스 & 테마 정의
 /// =======================
 class AppImages {
-  static const root = 'lib/assets';
+  static const root = 'lib/assets/image1';
   static const smallHabitLogo = '$root/small_habit_logo.png';
   static const hbLogo         = '$root/HB_logo.png';
   static const cart           = '$root/cart.png';

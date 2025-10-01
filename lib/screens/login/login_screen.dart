@@ -27,7 +27,7 @@ class Dimens {
 ///   assets:
 ///     - lib/assets/
 /// 루트 assets/ 를 쓰면 'assets/habit_logo.png' 로 바꿔줘.
-const kLogoPath = 'lib/assets/habit_logo.png';
+const kLogoPath = 'lib/assets/image1/habit_logo.png';
 
 /// =======================
 /// Login Screen
