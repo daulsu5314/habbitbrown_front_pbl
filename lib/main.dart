@@ -22,8 +22,8 @@ class HabitBrownApp extends StatelessWidget {
       initialRoute: '/login',  // 앱 시작하면 무조건 로그인 화면
       routes: {
         '/login': (_) => const LoginScreen(),
-        //'/signup': (_) => const SignupScreen(),
-        '/profileSetup': (_) => const ProfileSetupScreen(),
+        '/signup': (_) => const SignupPage(),
+        '/profileSetup': (_) => const ProfileSetupPage(),
         '/home': (_) => const HomeScreen(),
       },
     );
