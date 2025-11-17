@@ -6,6 +6,7 @@ import 'screens/login/login_screen.dart';
 // auth
 import 'screens/auth/signup_screen.dart';
 import 'screens/auth/profile_setup.dart';
+import 'screens/auth/habit_setting.dart';
 
 // home
 import 'screens/home/home_screen.dart';
@@ -19,12 +20,14 @@ class HabitBrownApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      initialRoute: '/login',  // 앱 시작하면 무조건 로그인 화면
+      initialRoute: '/habitSetting',  // 앱 시작하면 무조건 로그인 화면
       routes: {
         '/login': (_) => const LoginScreen(),
         '/signup': (_) => const SignupPage(),
         '/profileSetup': (_) => const ProfileSetupPage(),
         '/home': (_) => const HomeScreen(),
+        '/habitSetting' : (_) => const HabitSetupPage(),
+
       },
     );
   }

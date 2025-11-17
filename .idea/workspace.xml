@@ -5,26 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcc3ce1f-14d7-4807-9dba-83f3a7d326ae" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/assets/image2/signup_logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/assets/image2/habit_setting_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/auth/habit_setting.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/package_graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_graph.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/habbitbrown_front_pbl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/habbitbrown_front_pbl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/7aafc3f8ae75b3be63a62efd7c59e7c2.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/7aafc3f8ae75b3be63a62efd7c59e7c2.cache.dill.track.dill" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/AssetManifest.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/flutter_assets/AssetManifest.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/AssetManifest.bin.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/flutter_assets/AssetManifest.bin.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/AssetManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/flutter_assets/AssetManifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/flutter_assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/build/flutter_assets/NOTICES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/8c93516b2efa4ed66c5c21a6f6d0e329/gen_dart_plugin_registrant.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/build/8c93516b2efa4ed66c5c21a6f6d0e329/gen_dart_plugin_registrant.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/AssetManifest.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/AssetManifest.bin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/AssetManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/FontManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/NOTICES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/lib/assets/image1/HB_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/lib/assets/image1/angry_gamja.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/lib/assets/image1/cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/lib/assets/image1/comunity_people.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/lib/assets/image1/gamja1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/lib/assets/image1/gamja2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/lib/assets/image1/gamjakal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/lib/assets/image1/habit_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/lib/assets/image1/homi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/lib/assets/image1/hot_hashbrown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/lib/assets/image1/mypage_logo_gamja.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/lib/assets/image1/small_habit_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/lib/assets/image2/%ED%9E%88%ED%9E%88" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/lib/assets/image2/signup_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/shaders/ink_sparkle.frag" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/screens/auth/profile_setup.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/auth/profile_setup.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/auth/signup_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/auth/signup_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,21 +66,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Flutter.main.dart.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "leeyj",
-    "io.flutter.reload.alreadyRun": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/lucylee/Documents/GitHub/habbitbrown_front_pbl",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Flutter.main.dart.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;leeyj&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lucylee/Documents/GitHub/habbitbrown_front_pbl&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/assets/image2" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />

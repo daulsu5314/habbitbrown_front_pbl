@@ -14,6 +14,8 @@ class AppColors {
   static const brick = Color(0xFFC32B2B);
 }
 
+
+
 class ProfileSetupPage extends StatefulWidget {
   const ProfileSetupPage({Key? key}) : super(key: key);
 
